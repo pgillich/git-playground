@@ -9,3 +9,7 @@ func Hello(sb string) {
 func Bello(sb string) {
 	fmt.Printf("Bello, %s\n", sb)
 }
+
+func Bella(sb string) {
+	fmt.Printf("Bella, %s\n", sb)
+}
