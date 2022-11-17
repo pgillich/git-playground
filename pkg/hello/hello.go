@@ -10,6 +10,6 @@ func Bello(sb string) {
 	fmt.Printf("Bello, %s\n", sb)
 }
 
-func BellaX(sb string) {
-	fmt.Printf("BellaX, %s\n", sb)
+func BellaY(sb string) {
+	fmt.Printf("BellaY, %s\n", sb)
 }
